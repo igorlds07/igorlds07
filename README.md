@@ -85,11 +85,7 @@
 ✔ **Kanban e Jira para gerenciamento de projetos**  
 ✔ **Desenvolvimento em Java**  
 
----
-
-## 📫 **Onde me encontrar?**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/igor-lopes-2530b3225/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)](mailto:igorrrlopesss8@gmail.com)
+--
 
 ---
 ⭐ **Confira meus projetos e contribuições!**
