@@ -23,13 +23,6 @@
 🔹 **[Sistema de Gestão para Garagem de Carros](#)** - Controle financeiro, cadastro de clientes e veículos e relatórios 📊  
 
 ---
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark" />
-</p>
-
 ---
 
 ## 📚 **Atualmente Estudando**
