@@ -18,10 +18,6 @@
 
 ---
 
-## 📌 **Projetos em Destaque**
-🔹 **[LunaWay](#)** - Carteirinha digital para autistas com QR Code 📲  
-🔹 **[Sistema de Gestão para Garagem de Carros](#)** - Controle financeiro, cadastro de clientes e veículos e relatórios 📊  
-
 ---
 ---
 
