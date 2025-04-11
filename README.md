@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Igor Lopes  
 
 💻 **Estudante de Sistemas de Informação** | 🚀 **Apaixonado por Desenvolvimento e Automação**  
-📌 Focado em **Back-End, APIs e Gestão de Sistemas**  
+📌 Focado em **Desenvolvimento Back-End, APIs e Gestão de Sistemas**  
 💼 Atualmente desenvolvendo o projeto **LunaWay**, uma plataforma de carteirinhas digitais para autistas.  
 
 ---
@@ -32,13 +32,6 @@
 ## 📫 **Onde me encontrar?**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/igor-lopes-2530b3225/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)](mailto:igorrrlopesss8@gmail.com)
-
----
-⭐ **Confira meus projetos e contribuições!**# 👋 Olá! Eu sou Igor Lopes  
-
-💻 **Estudante de Sistemas de Informação** | 🚀 **Apaixonado por Desenvolvimento e Automação**  
-📌 Focado em **Desenvolvimento Back-End, APIs e Gestão de Sistemas**  
-💼 Atualmente desenvolvendo o projeto **LunaWay**, uma plataforma de carteirinhas digitais para autistas.  
 
 ---
 ---
