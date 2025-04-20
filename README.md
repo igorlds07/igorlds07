@@ -11,7 +11,7 @@
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
