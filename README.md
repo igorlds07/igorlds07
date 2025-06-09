@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Igor Lopes  
 
-💻 **Desenvolvedor Back-End com foco em Java, Python e APIs REST**
-🛠️ Trabalho com **Spring Boot, Django, Flask, SQL, Git** e boas práticas de versionamento e arquitetura de **APIs**
-💼 Atualmente desenvolvendo o projeto **LunaWay**, uma plataforma de carteirinhas digitais para autistas.  
+💻 **Desenvolvedor Back-End com foco em Java, Python e APIs REST**  
+🛠️ Trabalho com **Spring Boot, Django, Flask, SQL, Git** e boas práticas de versionamento e arquitetura de **APIs**  
+💼 Atualmente desenvolvendo o projeto **LunaWay**, uma plataforma de carteirinhas digitais para autistas com QR Code dinâmico e atualização automática  
 
 ---
 
@@ -35,7 +35,7 @@
 ---
 
 ## 📌 **Projetos em Destaque**
-🔹 **Gestão de Vagas** - Empresas podem publicar e editar vagas; candidatos se autenticam, atualizam seus perfis e se candidatam diretamente  📊
+🔹 **Gestão de Vagas** - Empresas podem publicar e editar vagas; candidatos se autenticam, atualizam seus perfis e se candidatam diretamente  📊  
 🔹 **LunaWay** - Carteirinha digital para autistas com QR Code 📲  
 🔹 **Sistema de Gestão para Garagem de Carros** - Controle financeiro, cadastro de clientes e veículos e relatórios 📊  
 
