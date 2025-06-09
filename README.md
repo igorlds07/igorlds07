@@ -35,6 +35,7 @@
 ---
 
 ## 📌 **Projetos em Destaque**
+🔹 **Gestão de Vagas** - Empresas podem publicar e editar vagas; candidatos se autenticam, atualizam seus perfis e se candidatam diretamente.
 🔹 **LunaWay** - Carteirinha digital para autistas com QR Code 📲  
 🔹 **Sistema de Gestão para Garagem de Carros** - Controle financeiro, cadastro de clientes e veículos e relatórios 📊  
 
