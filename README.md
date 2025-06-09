@@ -1,7 +1,9 @@
 # 👋 Olá! Eu sou Igor Lopes  
 
 💻 **Desenvolvedor Back-End com foco em Java, Python e APIs REST**  
+  
 🛠️ Trabalho com **Spring Boot, Django, Flask, SQL, Git** e boas práticas de versionamento e arquitetura de **APIs**  
+
 💼 Atualmente desenvolvendo o projeto **LunaWay**, uma plataforma de carteirinhas digitais para autistas com QR Code dinâmico e atualização automática  
 
 ---
