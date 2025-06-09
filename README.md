@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou Igor Lopes  
 
-💻 **Estudante de Sistemas de Informação** | 🚀 **Apaixonado por Desenvolvimento e Automação**  
-📌 Focado em **Desenvolvimento Back-End, APIs e Gestão de Sistemas**  
+💻 ** Desenvolvedor Back-End com foco em Java, Python e APIs REST**   
 💼 Atualmente desenvolvendo o projeto **LunaWay**, uma plataforma de carteirinhas digitais para autistas.  
 
 ---
@@ -35,7 +34,7 @@
 ---
 
 ## 📌 **Projetos em Destaque**
-🔹 **Gestão de Vagas** - Empresas podem publicar e editar vagas; candidatos se autenticam, atualizam seus perfis e se candidatam diretamente.
+🔹 **Gestão de Vagas** - Empresas podem publicar e editar vagas; candidatos se autenticam, atualizam seus perfis e se candidatam diretamente  📊
 🔹 **LunaWay** - Carteirinha digital para autistas com QR Code 📲  
 🔹 **Sistema de Gestão para Garagem de Carros** - Controle financeiro, cadastro de clientes e veículos e relatórios 📊  
 
@@ -49,6 +48,3 @@
 
 ---
 
---
-
----
