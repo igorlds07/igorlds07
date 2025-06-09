@@ -19,9 +19,6 @@
 
 ---
 
----
----
-
 ## 📚 **Atualmente Estudando**
 ✔ **Estruturas de Dados e Algoritmos**  
 ✔ **APIs REST, Webhooks e Expressões Regulares**  
