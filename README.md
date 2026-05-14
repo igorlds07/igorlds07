@@ -14,6 +14,7 @@ Tenho experiência prática no desenvolvimento de **APIs REST**, construção de
 
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Junit](https://img.shields.io/badge/Junit-333333?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
